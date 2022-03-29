@@ -2,6 +2,10 @@
 
 [바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners)로 따라한 과정
 
+## 수료증
+
+[![certification](_troubleshooting/certification.png)](https://nomadcoders.co/certs/f9eba897-398e-4fbb-be9b-41f4713e7d1f)
+
 ## troubleshooting
 
 ### `.DS_Store` 추적 제거하기
