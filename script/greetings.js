@@ -24,7 +24,7 @@ function handleLinkClick(event) {
   console.log(event);
 }
 
-link.addEventListener("click", handleLinkClick);
+// link.addEventListener("click", handleLinkClick);
 
 const savedUsername = localStorage.getItem(usernameKey);
 
